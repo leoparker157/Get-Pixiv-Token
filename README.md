@@ -1,8 +1,7 @@
 
 
 # Get-Pixiv-Token
- Get Pixiv token using javascript
-Javascript script to get pixiv token based on [Retrieving Auth Token (with Selenium)](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
+Get Pixiv token using Javascript script to get pixiv token based on [Retrieving Auth Token (with Selenium)](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
 
 ## Setup
 
